@@ -56,10 +56,10 @@
           <mxGeometry x="535" y="1240" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-14" value="项目交付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="582" y="1660" width="125" height="48" as="geometry" />
+          <mxGeometry x="900" y="1639" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-15" value="项目运营" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="582" y="1759" width="125" height="48" as="geometry" />
+          <mxGeometry x="900" y="1738" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-16" value="政府职能部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="1533" width="174" height="28" as="geometry" />
@@ -95,10 +95,10 @@
           <mxGeometry x="855" y="1231" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-27" value="政府部门、项目公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="879" y="1660" width="205" height="48" as="geometry" />
+          <mxGeometry x="1197" y="1639" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-28" value="运营单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="919" y="1759" width="125" height="48" as="geometry" />
+          <mxGeometry x="1237" y="1738" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-6">
           <mxGeometry relative="1" as="geometry">
