@@ -17,10 +17,10 @@
           <mxGeometry x="360" y="936" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-4" value="听证会、座谈会调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="535" y="1490" width="205" height="48" as="geometry" />
+          <mxGeometry x="378" y="1512" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-5" value="需求分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="582" y="1562" width="125" height="48" as="geometry" />
+          <mxGeometry x="567" y="1562" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-6" value="组建项目团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="525" width="156" height="48" as="geometry" />
@@ -90,18 +90,6 @@
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-28" value="运营单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="919" y="1759" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-2" target="AK_6Lq7T885QehdQRXsB-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="1479" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-2" target="AK_6Lq7T885QehdQRXsB-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-6">
           <mxGeometry relative="1" as="geometry">
@@ -176,11 +164,6 @@
             <Array as="points">
               <mxPoint x="510" y="1372" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-5" target="AK_6Lq7T885QehdQRXsB-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-6" target="AK_6Lq7T885QehdQRXsB-19">
