@@ -52,7 +52,7 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-9" value="勘察设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="1790" width="132" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-10" value="拆迁安置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AK_6Lq7T885QehdQRXsB-10" value="项目执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="1820" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-11" value="项目建设" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -86,7 +86,7 @@
           <mxGeometry x="566" y="1740" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-22" value="勘察设计单位、设计研究院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="566" y="1790" width="252" height="48" as="geometry" />
+          <mxGeometry x="566" y="1790" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-24" value="施工单位、开发商" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="662" y="2007" width="189" height="48" as="geometry" />
