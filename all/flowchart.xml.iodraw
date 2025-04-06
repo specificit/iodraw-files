@@ -151,13 +151,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-2" target="AK_6Lq7T885QehdQRXsB-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="1783" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-6" target="AK_6Lq7T885QehdQRXsB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -207,6 +200,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AK_6Lq7T885QehdQRXsB-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-57" target="AK_6Lq7T885QehdQRXsB-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-57" value="项目启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="1532" width="132" height="30" as="geometry" />
