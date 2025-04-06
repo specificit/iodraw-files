@@ -91,13 +91,6 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-28" value="运营单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="919" y="1759" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-2" target="AK_6Lq7T885QehdQRXsB-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="960" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-2" target="AK_6Lq7T885QehdQRXsB-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
