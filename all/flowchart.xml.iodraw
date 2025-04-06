@@ -156,13 +156,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="1372" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-6" target="AK_6Lq7T885QehdQRXsB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -213,7 +206,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-57" value="听证会、座谈会调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AK_6Lq7T885QehdQRXsB-57" value="项目启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="1532" width="132" height="30" as="geometry" />
         </mxCell>
       </root>
