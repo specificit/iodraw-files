@@ -58,9 +58,6 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-11" value="项目建设" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="1830" width="132" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-12" value="工程监理、设备采购" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="378" y="1868" width="132" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-13" value="财务、法律、环境咨询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="2212" width="220" height="48" as="geometry" />
         </mxCell>
@@ -94,9 +91,6 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-24" value="施工单位、开发商" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="662" y="2007" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-25" value="监理单位、设备材料公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="638" y="2105" width="236" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-26" value="会计所、律师事务所、咨询公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="2203" width="252" height="66" as="geometry" />
         </mxCell>
@@ -127,11 +121,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-11" target="AK_6Lq7T885QehdQRXsB-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-12" target="AK_6Lq7T885QehdQRXsB-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
