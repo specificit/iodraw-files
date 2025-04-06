@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1744" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="360" y="936" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-4" value="听证会、座谈会调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="378" y="1512" width="205" height="48" as="geometry" />
+          <mxGeometry x="378" y="1530" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-5" value="需求分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="567" y="1562" width="125" height="48" as="geometry" />
+          <mxGeometry x="378" y="1580" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-6" value="组建项目团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="525" width="156" height="48" as="geometry" />
