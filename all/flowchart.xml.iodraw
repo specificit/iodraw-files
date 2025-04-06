@@ -56,7 +56,7 @@
           <mxGeometry x="535" y="1240" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-14" value="项目交付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="1639" width="125" height="48" as="geometry" />
+          <mxGeometry x="950" y="1580" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-15" value="项目运营" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="1738" width="125" height="48" as="geometry" />
@@ -95,22 +95,10 @@
           <mxGeometry x="855" y="1231" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-27" value="政府部门、项目公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1197" y="1639" width="205" height="48" as="geometry" />
+          <mxGeometry x="1247" y="1580" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-28" value="运营单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1237" y="1738" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="1264" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-6" target="AK_6Lq7T885QehdQRXsB-19">
           <mxGeometry relative="1" as="geometry">
