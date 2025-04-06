@@ -173,6 +173,9 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-77" value="项目交付与运营" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="1930" width="125" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="AK_6Lq7T885QehdQRXsB-83" value="项目启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1440" width="125" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
