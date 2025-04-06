@@ -22,7 +22,7 @@
         <mxCell id="AK_6Lq7T885QehdQRXsB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AK_6Lq7T885QehdQRXsB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-8">
+        <mxCell id="AK_6Lq7T885QehdQRXsB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-3" target="AK_6Lq7T885QehdQRXsB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-3" value="项目计划与筹备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -80,7 +80,7 @@
           <mxGeometry x="566" y="1611" width="174" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-19" value="政府职能部门、相关单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="642" y="1720" width="238" height="48" as="geometry" />
+          <mxGeometry x="566" y="1660" width="238" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-20" value="投资、融资机构、政府部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="634" y="1818" width="252" height="48" as="geometry" />
