@@ -74,7 +74,7 @@
           <mxGeometry x="377" y="1920" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-15" value="项目运营" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377" y="1960" width="133" height="48" as="geometry" />
+          <mxGeometry x="377" y="1960" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-16" value="政府职能部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="1533" width="174" height="28" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="566" y="1920" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-28" value="运营单位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="2078" width="125" height="48" as="geometry" />
+          <mxGeometry x="566" y="1960" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AK_6Lq7T885QehdQRXsB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AK_6Lq7T885QehdQRXsB-6" target="AK_6Lq7T885QehdQRXsB-19">
           <mxGeometry relative="1" as="geometry">
